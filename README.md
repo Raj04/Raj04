@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQqQkGdNR8nuuxh2B7LU8t_u9B6DWPuTtqDyzrPqDNffurClBdaqzHihh_0yE6iRYW5J_1mPTIkZZ1M/pub](https://docs.google.com/document/d/e/2PACX-1vQqQkGdNR8nuuxh2B7LU8t_u9B6DWPuTtqDyzrPqDNffurClBdaqzHihh_0yE6iRYW5J_1mPTIkZZ1M/pub)
 
-- ⚡ Goals for 2022 is to **learn more about React, Redux, Spring Boot, GraphQL, frontend optimisation**
+- ⚡ Goals for 2023 is to **learn more about React, Redux, Spring Boot, GraphQL, frontend optimisation**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
