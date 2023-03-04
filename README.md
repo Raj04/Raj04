@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React, Redux, GraphQL, Node/Spring-Boot related projects**
 
-- 👨‍💻 All of my projects are available at [[Stay Tuned!]]([Stay Tuned!])
+- 👨‍💻 Please check out the repositories for the projects
 
 - 📝 I write articles on [https://www.quora.com/profile/Raj-Yadav-202](https://www.quora.com/profile/Raj-Yadav-202)
 
